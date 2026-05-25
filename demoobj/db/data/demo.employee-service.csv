@@ -1,0 +1,4 @@
+ID , empId , empName , department , designation , Salary , currency
+1 , 1001 , John , IT , Consultant , 60000 , INR
+2,  1004 , David , HR , Manager , 78900 , EUR
+3,  1005 , Suzan , Finance , Analyst , 34000 , Dol

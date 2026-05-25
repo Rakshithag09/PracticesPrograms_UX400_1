@@ -1,0 +1,4 @@
+SalesOrderNo,CustomerName,Amount,Currency,Status,Remarks
+SO1001,TCS,1000,INR,Open,Please approve
+SO1002,Infosys,2000,USD,Approved,urgent delivery
+SO1003,TATA,30000,EUR,Closed,complete
